@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/white</color>
+    <color name="colorPrimaryDark">@color/white</color>
+    <color name="textColorPrimary">@color/black</color>
+
+    <color name="black">#050505</color>
+    <color name="pale_grey">#3FD9DFE0</color>
+    <color name="white">#ffffff</color>
+    <color name="dodger_blue">#5a95ff</color>
+    <color name="black_two">#373737</color>
+    <color name="steel_59">#97838897</color>
+
+</resources>
